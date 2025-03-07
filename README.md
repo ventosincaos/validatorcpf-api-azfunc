@@ -1,5 +1,8 @@
-# Validator CPF API - Azure Functions
-HTML5 | C# | .NET | Azure Functions
+# API Validatora de CPF - Azure Functions
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
+![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
+![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
 
 ## Descrição
 Este projeto implementa um validador de CPF utilizando Azure Functions. A função principal permite validar se um CPF informado é válido ou inválido, verificando as regras de formatação e os dígitos verificadores.
